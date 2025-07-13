@@ -11,6 +11,7 @@ I am a college student with a profound interest in technology, programming, and 
 My journey in cybersecuirty has led me to develop a passion for information security, and I am now eager to enter into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
+---
 
 
 | Skill                                         | Associated Project         |
@@ -21,6 +22,7 @@ My journey in cybersecuirty has led me to develop a passion for information secu
 | Understanding Attack Surface Exposure | <a href="https://github.com/Alvin-Janton/Visualizing-Threats.git">Visualizing-Threats</a>|
 
 ### Tools
+---
 
 
 ### Network
@@ -60,4 +62,4 @@ My journey in cybersecuirty has led me to develop a passion for information secu
 
 ## Projects
 - Cloud Security with AWS IAM
-- Creating a Honeypot
+- Visualizing-Threats
