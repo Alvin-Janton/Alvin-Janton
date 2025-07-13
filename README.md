@@ -15,7 +15,7 @@ My journey in cybersecuirty has led me to develop a passion for information secu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="(https://github.com/Alvin-Janton/Visualizing-Threats.git)">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Alvin-Janton/Visualizing-Threats.git">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Identity and Access Management with AWS IAM         | Cloud Security with AWS IAM|
 | Creating and Applying IAM Policies with JSON      | Cloud Security with AWS IAM|
