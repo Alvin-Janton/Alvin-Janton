@@ -15,10 +15,10 @@ My journey in cybersecuirty has led me to develop a passion for information secu
 
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Identity and Access Management with AWS IAM | <a href="https://github.com/Alvin-Janton/Cloud-Security/tree/3ba51adcd00e4635a317cd9f4111c1fb4d490009/Encrypt-Data">Encrypt-Data</a>|
+| Identity and Access Management with AWS IAM | <a href="https://github.com/Alvin-Janton/Cloud-Security/tree/3ba51adcd00e4635a317cd9f4111c1fb4d490009/Encrypt-Data">Security-with-AWS-IAM</a>|
 | Creating and Applying IAM Policies with JSON | <a href="https://github.com/Alvin-Janton/Cloud-Security/tree/3ba51adcd00e4635a317cd9f4111c1fb4d490009/Encrypt-Data">Cloud-Security</a>|
 | Cloud Security Monitoring & Alerting | <a href="https://github.com/Alvin-Janton/Cloud-Security.git">Cloud-Security</a>|
-| Data Protection & Secrets Management | <a href="https://github.com/Alvin-Janton/Cloud-Security.git">Cloud-Security</a>|
+| Data Protection & Secrets Management | <a href="https://github.com/Alvin-Janton/Cloud-Security/tree/3ba51adcd00e4635a317cd9f4111c1fb4d490009/Encrypt-Data">Encrypt-Data</a>|
 | CI/CD Pipeline Development | <a href="https://github.com/Alvin-Janton/DevOps.git">DevOps</a>|
 | DevOps Automation & Orchestration | <a href="https://github.com/Alvin-Janton/DevOps.git">DevOps</a>|
 | Threat hunting through data visualzation | <a href="https://github.com/Alvin-Janton/Visualizing-Threats.git">Visualizing-Threats</a>|
