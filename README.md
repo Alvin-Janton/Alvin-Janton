@@ -49,7 +49,19 @@ My journey in cybersecuirty has led me to develop a passion for information secu
 <div>
   <img src="https://img.shields.io/badge/-Amazon_S3-569A31?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
   <img src="https://img.shields.io/badge/-Amazon_EC2-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS_IAM-FF0000?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS_IAM-FF4F8B?&style=for-the-badge&logo=AmazonIAM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Amazon_VPC-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS_CodePipeline-DD3366?&style=for-the-badge&logo=AWSCodePipeline&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS_CodeBuild-2C6287?&style=for-the-badge&logo=AWSCodeBuild&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS_CodeDeploy-E83200?&style=for-the-badge&logo=AWSCodeDeploy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS_CodeArtifact-E16719?&style=for-the-badge&logo=AWSCodeArtifact&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Amazon_CloudWatch-FF4F8B?&style=for-the-badge&logo=AmazonCloudWatch&logoColor=white" />
+</div>
+
+### Programming
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
 </div>
 
 ## Certifications
@@ -61,5 +73,6 @@ My journey in cybersecuirty has led me to develop a passion for information secu
 </div>
 
 ## Projects
-- Cloud Security with AWS IAM
+- Cloud-Security
 - Visualizing-Threats
+- DevOps
