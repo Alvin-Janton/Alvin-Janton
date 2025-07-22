@@ -10,17 +10,19 @@ I am a college student with a profound interest in technology, programming, and 
 
 My journey in cybersecuirty has led me to develop a passion for information security, and I am now eager to enter into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+### Skills
 ---
 
-
-| Skill                                         | Associated Project         |
+| Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Identity and Access Management with AWS IAM         | <a href="https://github.com/Alvin-Janton/Cloud-Security.git">Cloud-Security</a>|
-| Creating and Applying IAM Policies with JSON      | <a href="https://github.com/Alvin-Janton/Cloud-Security.git">Cloud-Security</a>|
-| Threat hunting through data visualzation                  | <a href="https://github.com/Alvin-Janton/Visualizing-Threats.git">Visualizing-Threats</a>|
+| Identity and Access Management with AWS IAM | <a href="https://github.com/Alvin-Janton/Cloud-Security.git">Cloud-Security</a>|
+| Creating and Applying IAM Policies with JSON | <a href="https://github.com/Alvin-Janton/Cloud-Security.git">Cloud-Security</a>|
+| Cloud Security Monitoring & Alerting | <a href="https://github.com/Alvin-Janton/Cloud-Security.git">Cloud-Security</a>|
+| Data Protection & Secrets Management | <a href="https://github.com/Alvin-Janton/Cloud-Security.git">Cloud-Security</a>|
+| CI/CD Pipeline Development | <a href="https://github.com/Alvin-Janton/DevOps.git">DevOps</a>|
+| DevOps Automation & Orchestration | <a href="https://github.com/Alvin-Janton/DevOps.git">DevOps</a>|
+| Threat hunting through data visualzation | <a href="https://github.com/Alvin-Janton/Visualizing-Threats.git">Visualizing-Threats</a>|
 | Understanding Attack Surface Exposure | <a href="https://github.com/Alvin-Janton/Visualizing-Threats.git">Visualizing-Threats</a>|
-
 ### Tools
 ---
 
