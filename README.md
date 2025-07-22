@@ -15,7 +15,7 @@ My journey in cybersecuirty has led me to develop a passion for information secu
 
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Identity and Access Management with AWS IAM | <a href="https://github.com/Alvin-Janton/Cloud-Security.git">Cloud-Security</a>|
+| Identity and Access Management with AWS IAM | <a href="Encrypt-Data">Cloud-Security</a>|
 | Creating and Applying IAM Policies with JSON | <a href="https://github.com/Alvin-Janton/Cloud-Security.git">Cloud-Security</a>|
 | Cloud Security Monitoring & Alerting | <a href="https://github.com/Alvin-Janton/Cloud-Security.git">Cloud-Security</a>|
 | Data Protection & Secrets Management | <a href="https://github.com/Alvin-Janton/Cloud-Security.git">Cloud-Security</a>|
