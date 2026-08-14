@@ -4,8 +4,10 @@
 
 #### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvin%20Janton-0072B1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvin-janton-003442254)
-[![Email](https://img.shields.io/badge/Email-alvinjanton575%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvinjanton575@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/alvin-janton-003442254/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/></a>
+  <a href="mailto:alvinjanton575@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/></a>
+</p>
 
 ---
 
@@ -23,33 +25,40 @@ My work has grown from foundational SOC analyst labs into larger portfolio proje
 
 ### Cloud & Security
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=flat&logo=amazon-iam&logoColor=white)
-![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazon-cloudwatch&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-8C4FFF?style=flat&logo=amazon-aws&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23DD344C.svg?style=for-the-badge&logo=amazon-iam&logoColor=white)
+![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-%23FF4F8B.svg?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-%238C4FFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Languages & Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,postgres,bash" alt="Languages and development tools" />
-</p>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+### Data & Analysis
 
-### DevOps, Data & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,maven,vscode,grafana" alt="DevOps, data, and tools" />
-</p>
-
-![DBT](https://img.shields.io/badge/DBT-FF694B?style=flat&logo=dbt&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-%23FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
@@ -64,11 +73,6 @@ My work has grown from foundational SOC analyst labs into larger portfolio proje
 ---
 
 ## GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alvin-Janton&show_icons=true&theme=tokyonight&hide_border=true" alt="Alvin's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin-Janton&layout=compact&theme=tokyonight&hide_border=true" alt="Alvin's top languages" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Alvin-Janton&theme=tokyonight&hide_border=true" alt="Alvin's GitHub streak" />
