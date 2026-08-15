@@ -129,9 +129,21 @@ My work has grown from foundational SOC analyst labs into larger portfolio proje
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alvin-Janton&theme=tokyonight&hide_border=true" alt="Alvin's GitHub streak" />
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://streak-stats.demolab.com?user=Alvin-Janton&theme=tokyonight&hide_border=true" width="500" alt="Alvin's GitHub streak" />
+    </td>
+    <td align="center" valign="top">
+      <picture>
+        <source srcset="https://github.com/Alvin-Janton/github-stats/blob/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github.com/Alvin-Janton/github-stats/blob/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github.com/Alvin-Janton/github-stats/blob/generated/languages.svg" width="360" alt="Languages Used" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
 
 
