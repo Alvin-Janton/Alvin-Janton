@@ -21,6 +21,37 @@ My work has grown from foundational SOC analyst labs into larger portfolio proje
 
 ---
 
+## Featured Projects
+
+### [LaxPass](https://github.com/Alvin-Janton/PasswordManager18)
+**Solo security engineering project**
+
+*A Java Swing desktop password manager built around encrypted vault storage, optional TOTP-based 2FA, recovery flows, local/S3 backups, and AWS-side hardening for the cloud backup path.*
+
+* **Tech Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) ![Swing](https://img.shields.io/badge/Java%20Swing-5382A1?style=flat-square&logo=openjdk&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+* **Impact:** Built a security-focused desktop application with vault integrity checks, atomic vault rewrites, recovery-code workflows, sensitive clipboard handling, scheduled backups, and least-privilege cloud backup infrastructure.
+
+---
+
+### [IAM Argus Security Dashboard](https://github.com/AWS-IAM-Dashboard/IAM-Dashboard)
+**Backend & infrastructure contributor**
+
+*A cloud security dashboard that centralizes AWS security posture, vulnerability scanning, findings, ticketing, and triage workflows for security teams.*
+
+* **Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white) ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white) ![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazon-cognito&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+* **Impact:** Implemented backend and infrastructure features including BFF authentication for the frontend, RBAC with JWT validation and DynamoDB-backed storage, and multi-account IAM scanning through Lambda, IAM, and DynamoDB.
+
+---
+
+### [Threat-Hunting Projects](https://github.com/Alvin-Janton/Threat-Hunting)
+**Solo SOC and DFIR investigation portfolio**
+
+*A hands-on threat-hunting repository simulating real incident response workflows across AWS CloudTrail analysis, Splunk IOC correlation, and Catalyst incident reconstruction.*
+
+* **Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![AWS CloudTrail](https://img.shields.io/badge/AWS%20CloudTrail-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white) ![Catalyst](https://img.shields.io/badge/Catalyst-34495E?style=flat-square&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+* **Impact:** Produced SOC-style deliverables including parsing scripts, enriched datasets, IOC pivots, Splunk searches, dashboards, incident reports, attack-flow diagrams, and structured triage documentation.
+---
+
 ## Tech Stack
 
 ### Cloud & Security
@@ -101,5 +132,6 @@ My work has grown from foundational SOC analyst labs into larger portfolio proje
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Alvin-Janton&theme=tokyonight&hide_border=true" alt="Alvin's GitHub streak" />
 </div>
+
 
 
