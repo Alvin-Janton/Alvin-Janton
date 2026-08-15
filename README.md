@@ -67,22 +67,28 @@ My work has grown from foundational SOC analyst labs into larger portfolio proje
 <table align="left" width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/wakeensito/KeenKloud/main/assets/img/comp.png" width="180" alt="Security+" />
-      <br /><font color="white"><b>Security+</b></font>
+      <a href="https://www.credly.com/earner/earned/badge/8f439f66-a938-40cb-88e0-7843d89871c9" style="text-decoration: none;">
+        <img src="Icons/comptia-security-ce-certification.png" width="180" alt="Security+" />
+        <br /><font color="white"><b>Security+</b></font>
+      </a>
     </td>
     <td align="center" width="25%">
       <a href="https://www.credly.com/badges/58571b6d-a685-4e2f-ad27-305c8eab2a7f/public_url" style="text-decoration: none;">
-        <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="180" alt="AWS Certified Cloud Practitioner" />
+        <img src="Icons/aws-certified-cloud-practitioner.png" width="180" alt="AWS Certified Cloud Practitioner" />
         <br /><font color="white"><b>AWS Cloud Practitioner</b></font>
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="Icons/certified-in-cybersecurity-cc.png" width="180" alt="ISC2 CC" />
-      <br /><font color="white"><b>ISC2 CC</b></font>
+      <a href="https://www.credly.com/earner/earned/badge/a2639211-1e38-4a52-95a7-f6d03bbcb075" style="text-decoration: none;">
+        <img src="Icons/certified-in-cybersecurity-cc.png" width="180" alt="ISC2 CC" />
+        <br /><font color="white"><b>ISC2 CC</b></font>
+      </a>
     </td>
     <td align="center" width="25%">
-      <img src="Icons/google-cybersecurity-professional-certificate-v2.png" width="180" alt="Google Cybersecurity Certificate" />
-      <br /><font color="white"><b>Google Cybersecurity Certificate</b></font>
+      <a href="https://www.credly.com/earner/earned/badge/f6533902-6dfb-48b6-b96a-b492bb9a113a" style="text-decoration: none;">
+        <img src="Icons/google-cybersecurity-professional-certificate-v2.png" width="180" alt="Google Cybersecurity Certificate" />
+        <br /><font color="white"><b>Google Cybersecurity Certificate</b></font>
+      </a>
     </td>
   </tr>
 </table>
@@ -95,4 +101,5 @@ My work has grown from foundational SOC analyst labs into larger portfolio proje
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Alvin-Janton&theme=tokyonight&hide_border=true" alt="Alvin's GitHub streak" />
 </div>
+
 
