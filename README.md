@@ -13,9 +13,9 @@
 
 ## About Me
 
-I'm a cybersecurity and cloud security learner focused on building hands-on projects that connect security operations, AWS infrastructure, DevOps automation, and secure application development.
+**Pursuing a BS in Cybersecurity at Florida International University. Class of 2027**
 
-My work has grown from foundational SOC analyst labs into larger portfolio projects: AWS networking and CI/CD pipelines, cloud threat hunting with Python and Splunk, AI-assisted data engineering workflows, and a security-focused Java desktop password manager with encrypted vaults, 2FA, recovery flows, and S3 backup hardening.
+I'm a cybersecurity and cloud security learner focused on building hands-on projects that connect security operations, AWS infrastructure, DevOps automation, and secure application development.
 
 **Current focus:** cloud security engineering, threat hunting, secure Java application design, AWS infrastructure, and AI-assisted engineering workflows.
 
