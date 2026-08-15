@@ -144,6 +144,19 @@ My work has grown from foundational SOC analyst labs into larger portfolio proje
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <picture>
+        <source srcset="Icons/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="Icons/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="Icons/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
 [Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+
 
 
