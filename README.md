@@ -64,11 +64,29 @@ My work has grown from foundational SOC analyst labs into larger portfolio proje
 
 ## Certifications
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISC2_CC-006943?&style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-</div>
+<table align="left" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/wakeensito/KeenKloud/main/assets/img/comp.png" width="180" alt="Security+" />
+      <br /><font color="white"><b>Security+</b></font>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/58571b6d-a685-4e2f-ad27-305c8eab2a7f/public_url" style="text-decoration: none;">
+        <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="180" alt="AWS Certified Cloud Practitioner" />
+        <br /><font color="white"><b>AWS Cloud Practitioner</b></font>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <img src="Icons/certified-in-cybersecurity-cc.png" width="180" alt="ISC2 CC" />
+      <br /><font color="white"><b>ISC2 CC</b></font>
+    </td>
+    <td align="center" width="25%">
+      <img src="Icons/google-cybersecurity-professional-certificate-v2.png" width="180" alt="Google Cybersecurity Certificate" />
+      <br /><font color="white"><b>Google Cybersecurity Certificate</b></font>
+    </td>
+  </tr>
+</table>
+<br clear="both" />
 
 ---
 
@@ -77,3 +95,4 @@ My work has grown from foundational SOC analyst labs into larger portfolio proje
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Alvin-Janton&theme=tokyonight&hide_border=true" alt="Alvin's GitHub streak" />
 </div>
+
